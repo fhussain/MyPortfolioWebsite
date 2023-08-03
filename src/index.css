@@ -111,6 +111,7 @@ code {
 }
 
 .projects__cards {
+
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -120,7 +121,7 @@ code {
 
 .projects__card {
   max-width: 350px;
-
+  min-height: 550px;
   padding: 20px;
 
   border: 1px solid #0088BB;
@@ -136,18 +137,20 @@ code {
 .projects__card p {
   font-size: 16px;
   margin: 20px 0;
+  height: 110px;
 }
 
 .projects__card img {
   width: 100%;
-  height: auto;
+  height: 150px;
   margin: 20px 0 10px;
 
   border-radius: 8px;
 }
 
 .projects__card .button {
-  margin: 10px 5px 0;
+  margin: 10px 5px 10px 10px;
+
 }
 
 /* ------------------------------------------------------ */

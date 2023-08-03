@@ -1,10 +1,9 @@
-import certificate1 from '../assets/Coursera_Bootstrap4_certificate.pdf';
-import certificate2 from '../assets/Coursera_React_certificate.pdf';
- 
+import certificate1 from '../assets/certificate1.png';
+import certificate2 from '../assets/certificate2.png';
 const Experience = () => {
     return (
         <div className="experience">
-            <h2>Experience</h2>
+            <h2>Resume</h2>
 
             <ul>
                 <li>
@@ -37,12 +36,14 @@ const Experience = () => {
 </strong>, 2022
                     <ul>
                         <li>Studied front-end web development with Bootstrap 4</li>
+                        <li><img src={certificate1} alt="Bootstrap certificate" /></li>
                     </ul>
                 </li>
                 <li>
                     <i>Coursera: The Honkong Univeristy of Science and Technology</i> - <strong>Front-end web development with React Native</strong>,2022
                     <ul>
                         <li>Studied making react based applications</li>
+                        <li><img src={certificate2} alt="React certificate" /></li>
                     </ul>
                 </li>
             </ul>
