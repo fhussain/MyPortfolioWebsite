@@ -33,12 +33,9 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Fake drug detector</h3>
-                    <img src={progress} alt="under progress" />
-                    <p>This fake drug detector will be web 3.0 application.
-                        we will be using solidity in the backend and react on the front end.
-                        It will be a full web application. We will talk to the blockchain using
-                        ethereum web3 providers. 
+                    <h3>Smart Contract Lottery</h3>
+                    <img src={progress} alt="https://github.com/fhussain/Foundry-Lottery-smart-contract-2024" />
+                    <p>It is a smart contract project build on foundry framework.
                     </p>
 
                     <a href="https://aave.com/" target="_blank" className="button">Site</a>
