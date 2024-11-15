@@ -29,11 +29,16 @@ const Experience = () => {
                     <i>DHA Suffa University</i>, 2013-2015
                     <ul>
                         <li>studied Bs Computer science for 2 years</li>
+                        <ul><li>Semester 1 3.6 gpa</li>
+                            <li>Semester2  4.0gpa</li>
+                            <li>Semester3  3.96gpa</li>
+                            <li>Semester4  3.61gpa.</li>
+                        </ul>
                     </ul>
                 </li>
                 <li>
                     <i>Coursera: The Honkong Univeristy of Science and Technology</i> - <strong>Front-End Web UI Frameworks and Tools: Bootstrap 4
-</strong>, 2022
+                    </strong>, 2022
                     <ul>
                         <li>Studied front-end web development with Bootstrap 4</li>
                         <li><img src={certificate1} alt="Bootstrap certificate" /></li>
