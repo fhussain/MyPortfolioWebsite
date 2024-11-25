@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.31213723.css",
-    "main.js": "/react-gh-pages/static/js/main.b9d92b5b.js",
-    "static/js/453.1407b060.chunk.js": "/react-gh-pages/static/js/453.1407b060.chunk.js",
-    "static/media/profile2.jpg": "/react-gh-pages/static/media/profile2.c44f13979da925a24de2.jpg",
-    "static/media/certificate1.png": "/react-gh-pages/static/media/certificate1.b533b4fd6e7d1fa4487f.png",
-    "static/media/certificate2.png": "/react-gh-pages/static/media/certificate2.6a749d95f4dad3274256.png",
-    "static/media/underProcess.png": "/react-gh-pages/static/media/underProcess.9e5c4d3817d846196979.png",
-    "static/media/portfolio.png": "/react-gh-pages/static/media/portfolio.3049cd7f01233a8ef553.png",
-    "static/media/dex.png": "/react-gh-pages/static/media/dex.d5c43e552dceae43f6fe.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.31213723.css.map": "/react-gh-pages/static/css/main.31213723.css.map",
-    "main.b9d92b5b.js.map": "/react-gh-pages/static/js/main.b9d92b5b.js.map",
-    "453.1407b060.chunk.js.map": "/react-gh-pages/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/MyPortfolioWebsite/static/css/main.31213723.css",
+    "main.js": "/MyPortfolioWebsite/static/js/main.caffb4eb.js",
+    "static/js/453.1407b060.chunk.js": "/MyPortfolioWebsite/static/js/453.1407b060.chunk.js",
+    "static/media/profile2.jpg": "/MyPortfolioWebsite/static/media/profile2.c44f13979da925a24de2.jpg",
+    "static/media/certificate1.png": "/MyPortfolioWebsite/static/media/certificate1.b533b4fd6e7d1fa4487f.png",
+    "static/media/certificate2.png": "/MyPortfolioWebsite/static/media/certificate2.6a749d95f4dad3274256.png",
+    "static/media/underProcess.png": "/MyPortfolioWebsite/static/media/underProcess.9e5c4d3817d846196979.png",
+    "static/media/portfolio.png": "/MyPortfolioWebsite/static/media/portfolio.3049cd7f01233a8ef553.png",
+    "static/media/dex.png": "/MyPortfolioWebsite/static/media/dex.d5c43e552dceae43f6fe.png",
+    "index.html": "/MyPortfolioWebsite/index.html",
+    "main.31213723.css.map": "/MyPortfolioWebsite/static/css/main.31213723.css.map",
+    "main.caffb4eb.js.map": "/MyPortfolioWebsite/static/js/main.caffb4eb.js.map",
+    "453.1407b060.chunk.js.map": "/MyPortfolioWebsite/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31213723.css",
-    "static/js/main.b9d92b5b.js"
+    "static/js/main.caffb4eb.js"
   ]
 }
